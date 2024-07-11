@@ -1,0 +1,5 @@
+Excel reader
+Rule engine to find the particular datapoints => $DOI$ LIKE "*sc*" => "Chemical Science"
+Row filter to filter the identified datapoints
+another Roe filter to to filter some more values
+Excel writer to create a excel sheet and write the results
